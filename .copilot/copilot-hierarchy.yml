@@ -1,0 +1,10 @@
+#org: 
+
+# divisions:
+#   DIV_A:
+#     subdivisions:
+#       SUB_DIV_A:
+#         applications:
+#           APP_A:
+#             repos:
+#               - app-a-repo
