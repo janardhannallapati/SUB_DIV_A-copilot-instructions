@@ -1,7 +1,7 @@
 ---
-mode: 'agent'
-tools: ['githubRepo', 'codebase']
-description: 'Generate a new React form component'
+'mode: 'agent'
+'tools: ['githubRepo', 'codebase']
+'description: 'Generate a new React form component'
 ---
 
 # Code Review Prompts
